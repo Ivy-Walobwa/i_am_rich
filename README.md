@@ -1,6 +1,9 @@
 # iamrich
 
-A new Flutter application.
+This is my first Flutter Application.
+
+## Description
+This
 
 ## Getting Started
 
